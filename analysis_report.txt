@@ -1,0 +1,54 @@
+================================================================================
+CUSTOMER PURCHASE PREDICTION - ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-15 16:14:43
+
+EXECUTIVE SUMMARY
+----------------------------------------
+• Total customers analyzed: 631
+• Average prediction: 53.0 days
+• Best performing model: Gradient Boosting
+• Model accuracy (MAE): 14.01 days
+
+CUSTOMER SEGMENTATION
+----------------------------------------
+• Very Frequent: 185 customers (29.3%)
+• Regular: 131 customers (20.8%)
+• Rare: 129 customers (20.4%)
+• Frequent: 112 customers (17.7%)
+• Occasional: 74 customers (11.7%)
+
+MODEL PERFORMANCE
+----------------------------------------
+  Linear Regression:
+    MAE:  16.86 days
+    RMSE: 47.66 days
+    R²:   -0.0163
+  Random Forest:
+    MAE:  14.24 days
+    RMSE: 43.03 days
+    R²:   0.1715
+★ Gradient Boosting:
+    MAE:  14.01 days
+    RMSE: 42.00 days
+    R²:   0.2109
+  XGBoost:
+    MAE:  14.34 days
+    RMSE: 43.29 days
+    R²:   0.1617
+
+TOP PREDICTIONS (High Confidence)
+----------------------------------------
+Customer 653: 70 days (90% confidence)
+Customer 663: 16 days (90% confidence)
+Customer 699: 10 days (90% confidence)
+Customer 711: 12 days (90% confidence)
+Customer 725: 17 days (90% confidence)
+
+BUSINESS RECOMMENDATIONS
+----------------------------------------
+1. Target 73 customers with imminent purchases (≤7 days)
+2. Enroll 428 regular customers in loyalty program
+3. Re-engage 203 occasional/rare customers
+
+================================================================================
