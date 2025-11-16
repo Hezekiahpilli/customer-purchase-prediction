@@ -1,0 +1,890 @@
+Customer ID,Transaction Date,Product Category,Purchase Amount
+636,2022-11-27,Personal Care,4474.8
+636,2022-11-27,Unknown,210.98
+637,2022-03-27,Specialty Foods - Other,5055.35
+637,2022-03-27,Unknown,487.53
+642,2022-05-29,Non Finished Goods,155.81
+644,2021-06-20,Healthcare Films & Flex Pkg,2668.68
+644,2021-06-20,Non Finished Goods,116.6
+644,2021-06-20,Personal Care,380.0
+653,2024-12-01,Personal Care,11034.75
+661,2022-05-29,Personal Care,16702.53
+663,2022-06-19,Converter & Specialty Ind Film,31913.85
+663,2022-06-19,Non Finished Goods,344.66
+699,2022-05-22,Specialty Foods - Other,8626.25
+711,2022-04-24,Unknown,378.05
+725,2025-08-24,Protein,59731.56
+726,2021-07-04,Non Finished Goods,38.05
+726,2021-07-04,Specialty Foods - Other,3933.02
+727,2023-03-19,Specialty Foods - Other,94463.09
+728,2025-08-03,Non Finished Goods,163.51
+728,2025-08-03,Protein,16892.46
+729,2025-08-17,Dairy,241424.77
+730,2022-03-20,Non Finished Goods,420.45
+762,2022-04-24,Plate for Graphics - non FG,38010.67
+767,2025-07-13,Ready-to-Eat,37349.15
+770,2025-07-13,Converter & Specialty Ind Film,27182.4
+770,2025-07-13,Non Finished Goods,229.6
+770,2025-07-13,Unknown,888.17
+775,2022-07-03,Personal Care,3897.7
+777,2022-08-07,Specialty Foods - Other,39846.18
+777,2022-08-07,Unknown,825.0
+778,2022-06-12,Converter & Specialty Ind Film,3810.48
+778,2022-06-12,Non Finished Goods,25.25
+792,2021-11-28,Converter & Specialty Ind Film,3507.8
+794,2025-01-05,Non Finished Goods,59.12
+794,2025-01-05,Specialty Foods - Other,11378.4
+795,2023-10-08,Specialty Foods - Other,5815.6
+795,2023-10-08,Unknown,521.66
+796,2024-04-21,Protein,30412.2
+797,2025-07-27,Non Finished Goods,206.38
+797,2025-07-27,Specialty Foods - Other,7586.54
+798,2021-08-15,Specialty Foods - Other,17312.37
+832,2022-07-17,Non Finished Goods,5.26
+844,2025-08-24,Bakery,43807.67
+844,2025-08-24,Non Finished Goods,619.13
+844,2025-08-24,Unknown,339.62
+845,2025-08-17,Healthcare Films & Flex Pkg,144071.23
+899,2022-03-06,Non Finished Goods,587.33
+913,2025-05-25,Plate for Graphics - non FG,2266.2
+920,2022-06-12,Healthcare Films & Flex Pkg,26912.0
+920,2022-06-12,Non Finished Goods,111.4
+992,2025-05-04,Unknown,119.65
+1009,2025-08-24,Specialty Foods - Other,8911.92
+1035,2024-03-03,Bakery,245.12
+1049,2021-12-19,Bakery,5324.88
+1054,2022-03-27,Healthcare Films & Flex Pkg,125.0
+1054,2022-03-27,Specialty Foods - Other,20471.16
+1069,2022-06-05,Healthcare Films & Flex Pkg,158494.54
+1069,2022-06-05,Non Finished Goods,613.51
+1072,2022-05-29,Converter & Specialty Ind Film,30920.12
+1075,2022-03-20,Converter & Specialty Ind Film,2644.85
+1075,2022-03-20,Unknown,204.93
+1104,2021-08-15,Non Finished Goods,1710.0
+1104,2021-08-15,Specialty Foods - Other,1639.4
+1105,2025-08-24,Non Finished Goods,11.43
+1105,2025-08-24,Specialty Foods - Other,10475.94
+1105,2025-08-24,Unknown,89.52
+1159,2022-07-24,Non Finished Goods,259.13
+1159,2022-07-24,Specialty Foods - Other,22107.74
+1226,2023-07-30,Specialty Foods - Other,1482.04
+1228,2025-05-11,Non Finished Goods,636.0
+1229,2022-02-06,Specialty Foods - Other,375.0
+1230,2022-09-18,Unknown,204.83
+1345,2025-08-17,Specialty Foods - Other,12220.14
+1345,2025-08-17,Unknown,361.68
+1404,2025-08-03,Healthcare Films & Flex Pkg,6206.4
+1408,2025-06-08,Unknown,191.4
+1413,2022-01-09,Non Finished Goods,56.99
+1472,2025-08-24,Converter & Specialty Ind Film,40632.33
+1577,2025-08-24,Bakery,7217.92
+1588,2025-07-20,Bakery,3636.6
+1588,2025-07-20,Unknown,587.15
+1690,2022-06-26,Non Finished Goods,211.61
+1825,2023-01-29,Plate for Graphics - non FG,3777.0
+1828,2020-03-22,Bakery,1539.11
+1828,2020-03-22,Non Finished Goods,120.94
+2012,2022-05-22,Non Finished Goods,917.55
+2047,2019-10-06,Healthcare Films & Flex Pkg,13399.94
+2080,2024-02-18,Converter & Specialty Ind Film,6725.64
+2096,2025-06-15,Non Finished Goods,133.29
+2096,2025-06-15,Specialty Foods - Other,11380.2
+2171,2025-08-24,Converter & Specialty Ind Film,46614.0
+2171,2025-08-24,Specialty Foods - Other,5177.88
+2197,2021-09-19,Specialty Foods - Other,12352.8
+2311,2025-08-24,Converter & Specialty Ind Film,25565.61
+2311,2025-08-24,Unknown,1925.0
+2419,2021-10-24,Non Finished Goods,135.9
+2421,2021-02-28,Specialty Foods - Other,62489.79
+2457,2023-01-08,Non Finished Goods,78.16
+2551,2020-07-19,Converter & Specialty Ind Film,3297.24
+2593,2022-01-30,Converter & Specialty Ind Film,9707.05
+2655,2022-03-27,Bakery,1078.47
+2655,2022-03-27,Non Finished Goods,44.26
+2663,2024-08-04,Specialty Foods - Other,12675.12
+2713,2022-06-12,Non Finished Goods,67.87
+2713,2022-06-12,Specialty Foods - Other,7886.8
+2717,2025-08-10,Non Finished Goods,287.69
+2719,2024-11-03,Personal Care,6456.0
+2728,2024-04-21,Bakery,2714.4
+2768,2025-08-24,Bakery,130706.5
+2768,2025-08-24,Unknown,196.19
+2788,2025-07-27,Converter & Specialty Ind Film,41577.92
+2788,2025-07-27,Unknown,1249.14
+2881,2025-08-24,Healthcare Films & Flex Pkg,1260.0
+2881,2025-08-24,Personal Care,12287.52
+2881,2025-08-24,Unknown,596.55
+2953,2022-06-19,Converter & Specialty Ind Film,15099.08
+2953,2022-06-19,Non Finished Goods,221.45
+2954,2024-03-31,Converter & Specialty Ind Film,1107.8
+2954,2024-03-31,Non Finished Goods,9.6
+2955,2025-02-02,Converter & Specialty Ind Film,31600.8
+2955,2025-02-02,Non Finished Goods,441.47
+2957,2025-08-24,Personal Care,102745.68
+2957,2025-08-24,Plate for Graphics - non FG,5461.16
+2958,2024-10-27,Personal Care,12568.0
+2997,2024-02-18,Personal Care,786.72
+3104,2025-08-03,Unknown,5660.04
+3111,2021-10-10,Healthcare Films & Flex Pkg,1884.58
+3118,2025-08-24,Protein,58391.16
+3118,2025-08-24,Specialty Foods - Other,2916.72
+3119,2020-12-13,Healthcare Films & Flex Pkg,47523.0
+3122,2025-03-16,Non Finished Goods,161.25
+3122,2025-03-16,Protein,31642.48
+3132,2021-01-10,Non Finished Goods,320.44
+3132,2021-01-10,Specialty Foods - Other,2452.14
+3222,2022-02-27,Non Finished Goods,73.61
+3222,2022-02-27,Specialty Foods - Other,7268.48
+3225,2024-02-11,Film-non finished good,105601.33
+3323,2021-02-07,Non Finished Goods,242.3
+3323,2021-02-07,Specialty Foods - Other,2647.2
+3325,2023-09-10,Non Finished Goods,268.88
+3396,2022-10-16,Non Finished Goods,159.57
+3396,2022-10-16,Specialty Foods - Other,12787.2
+3490,2022-02-13,Personal Care,9500.15
+3490,2022-02-13,Unknown,103.95
+3493,2025-08-24,Non Finished Goods,843.84
+3493,2025-08-24,Ready-to-Eat,56939.76
+3496,2022-03-20,Personal Care,3042.0
+3513,2021-01-03,Non Finished Goods,102.97
+3513,2021-01-03,Personal Care,860.0
+3513,2021-01-03,Specialty Foods - Other,2088.91
+3519,2023-12-17,Non Finished Goods,846.57
+3519,2023-12-17,Personal Care,28051.65
+3522,2021-10-24,Non Finished Goods,396.91
+3523,2022-02-13,Healthcare Films & Flex Pkg,1533.53
+3523,2022-02-13,Unknown,22.31
+3526,2025-08-24,Healthcare Films & Flex Pkg,460.0
+3526,2025-08-24,Personal Care,10916.17
+3527,2021-06-27,Personal Care,725.0
+3529,2020-12-06,Non Finished Goods,113.62
+3529,2020-12-06,Personal Care,7834.29
+3530,2019-12-29,Non Finished Goods,10.0
+3553,2021-10-31,Non Finished Goods,7600.0
+3590,2025-08-03,Converter & Specialty Ind Film,65008.26
+3590,2025-08-03,Non Finished Goods,858.2
+3590,2025-08-03,Unknown,3045.04
+3595,2022-06-12,Non Finished Goods,38.81
+3595,2022-06-12,Specialty Foods - Other,3854.25
+3620,2022-11-27,Non Finished Goods,193.1
+3620,2022-11-27,Specialty Foods - Other,19674.72
+3693,2025-05-04,Protein,41229.76
+3693,2025-05-04,Specialty Foods - Other,11718.34
+3695,2021-07-18,Healthcare Films & Flex Pkg,189267.69
+3696,2022-08-14,Healthcare Films & Flex Pkg,27299.16
+3719,2020-01-26,Non Finished Goods,100.97
+3719,2020-01-26,Specialty Foods - Other,12141.2
+3786,2022-02-20,Non Finished Goods,14.34
+3788,2025-08-24,Bakery,8061.85
+3788,2025-08-24,Non Finished Goods,82.37
+3788,2025-08-24,Plate for Graphics - non FG,3725.88
+3811,2022-03-20,Personal Care,2376.4
+3818,2022-09-04,Unknown,1707.21
+3824,2025-08-10,Personal Care,57346.95
+3865,2021-06-20,Bakery,10054.4
+3956,2025-08-24,Food items - non finished,38024.73
+4026,2025-08-24,Ready-to-Eat,28716.81
+4031,2025-08-24,Personal Care,12126.4
+4071,2024-05-12,Personal Care,10454.81
+4073,2024-05-19,Converter & Specialty Ind Film,8491.08
+4088,2025-08-03,Converter & Specialty Ind Film,4172.87
+4093,2024-08-25,Specialty Foods - Other,11970.76
+4093,2024-08-25,Unknown,184.38
+4096,2024-02-25,Personal Care,3748.75
+4132,2025-08-24,Bakery,47752.51
+4132,2025-08-24,Non Finished Goods,535.39
+4137,2025-07-20,Converter & Specialty Ind Film,7387.08
+4137,2025-07-20,Non Finished Goods,92.07000000000001
+4137,2025-07-20,Unknown,140.92000000000002
+4138,2025-08-24,Non Finished Goods,1630.51
+4138,2025-08-24,Plate for Graphics - non FG,4417.86
+4138,2025-08-24,Protein,33461.45
+4138,2025-08-24,Specialty Foods - Other,87401.52
+4205,2021-03-07,Converter & Specialty Ind Film,12781.56
+4205,2021-03-07,Non Finished Goods,107.55
+4220,2022-03-27,Non Finished Goods,270.72
+4226,2025-04-20,Converter & Specialty Ind Film,13164.0
+4226,2025-04-20,Non Finished Goods,322.66
+4239,2022-09-18,Plate for Graphics - non FG,1011.0
+4240,2022-03-06,Plate for Graphics - non FG,437.46
+4241,2025-05-04,Unknown,356.8
+4242,2025-05-11,Non Finished Goods,20.78
+4244,2025-06-01,Non Finished Goods,310.53
+4305,2018-09-23,Non Finished Goods,175.85
+4313,2025-08-17,Healthcare Films & Flex Pkg,20585.98
+4352,2025-08-31,Personal Care,71443.83
+4463,2025-08-24,Converter & Specialty Ind Film,2950.75
+4463,2025-08-24,Non Finished Goods,83.41
+4464,2025-06-29,Unknown,237.02
+4607,2021-08-29,Non Finished Goods,10.0
+4647,2022-02-20,Bakery,5547.52
+4647,2022-02-20,Converter & Specialty Ind Film,13190.71
+4647,2022-02-20,Non Finished Goods,278.41
+4650,2023-03-26,Non Finished Goods,2500.0
+4653,2024-05-26,Bakery,3069.0
+4653,2024-05-26,Non Finished Goods,33.15
+4653,2024-05-26,Unknown,186.6
+4654,2020-10-18,Bakery,1154.44
+4654,2020-10-18,Non Finished Goods,64.88
+4661,2025-07-13,Dairy,2606.64
+4661,2025-07-13,Unknown,196.19
+4697,2018-09-30,Bakery,77698.19
+4700,2022-05-22,Bakery,97143.93
+4700,2022-05-22,Non Finished Goods,51.78
+4708,2024-03-17,Bakery,3114.06
+4708,2024-03-17,Unknown,194.04
+4709,2022-03-13,Personal Care,33985.98
+4715,2020-03-22,Specialty Foods - Other,10442.79
+4716,2025-07-27,Unknown,184.13
+4717,2020-08-02,Plate for Graphics - non FG,362.91
+4718,2022-06-12,Non Finished Goods,109.12
+4718,2022-06-12,Specialty Foods - Other,5985.34
+4724,2019-09-29,Bakery,15426.43
+4726,2022-05-15,Healthcare Films & Flex Pkg,11420.96
+4730,2024-03-24,Bakery,7109.64
+4792,2022-09-25,Converter & Specialty Ind Film,59041.95
+4802,2021-02-21,Specialty Foods - Other,24526.29
+4816,2022-08-21,Converter & Specialty Ind Film,33011.55
+4822,2020-08-16,Specialty Foods - Other,700.0
+4831,2025-08-03,Non Finished Goods,113.95
+4859,2022-08-14,Personal Care,15709.17
+4862,2022-02-06,Personal Care,21234.75
+4942,2025-08-03,Non Finished Goods,42.87
+4942,2025-08-03,Specialty Foods - Other,4277.1
+4959,2021-01-31,Specialty Foods - Other,10076.16
+4977,2025-08-10,Non Finished Goods,149.61
+5045,2025-07-27,Converter & Specialty Ind Film,51159.86
+5122,2021-12-12,Personal Care,3991.68
+5169,2022-08-07,Non Finished Goods,71.22
+5169,2022-08-07,Protein,4765.6
+5169,2022-08-07,Specialty Foods - Other,2004.92
+5174,2022-02-20,Specialty Foods - Other,449.83
+5182,2025-03-30,Healthcare Films & Flex Pkg,1225.0
+5196,2021-10-10,Non Finished Goods,900.0
+5197,2022-06-05,Healthcare Films & Flex Pkg,8205.9
+5264,2025-08-10,Converter & Specialty Ind Film,36285.06
+5430,2022-11-27,Bakery,1517.28
+5430,2022-11-27,Non Finished Goods,16.38
+5431,2021-04-18,Non Finished Goods,564.11
+5435,2020-05-17,Specialty Foods - Other,19077.64
+5436,2020-08-23,Bakery,3282.84
+5461,2021-01-10,Bakery,3593.94
+5461,2021-01-10,Non Finished Goods,35.94
+5551,2025-08-03,Personal Care,17411.74
+5552,2025-03-30,Healthcare Films & Flex Pkg,2000.0
+5554,2021-03-14,Converter & Specialty Ind Film,14238.42
+5554,2021-03-14,Non Finished Goods,265.28
+5558,2022-02-20,Healthcare Films & Flex Pkg,8031.91
+5558,2022-02-20,Personal Care,2800.0
+5558,2022-02-20,Unknown,123.35
+5559,2024-01-14,Personal Care,8110.2
+5560,2025-05-25,Converter & Specialty Ind Film,11316.0
+5561,2024-02-04,Dairy,28319.0
+5561,2024-02-04,Unknown,134.3
+5562,2023-06-25,Personal Care,14435.52
+5575,2020-09-06,Non Finished Goods,151.14
+5576,2022-06-19,Non Finished Goods,84.35
+5580,2025-08-24,Bakery,62884.39
+5580,2025-08-24,Non Finished Goods,555.06
+5580,2025-08-24,Unknown,2912.32
+5585,2025-08-24,Bakery,173872.73
+5585,2025-08-24,Non Finished Goods,1808.9
+5585,2025-08-24,Plate for Graphics - non FG,721.76
+5587,2018-12-09,Specialty Foods - Other,35633.92
+5594,2021-03-28,Specialty Foods - Other,19771.89
+5601,2025-08-24,Food items - non finished,10910.7
+5601,2025-08-24,Non Finished Goods,79.0
+5616,2020-05-10,Non Finished Goods,113.6
+5617,2021-12-19,Converter & Specialty Ind Film,2586.24
+5617,2021-12-19,Unknown,181.17
+5618,2022-03-20,Healthcare Films & Flex Pkg,3394.6
+5618,2022-03-20,Non Finished Goods,16.45
+5654,2021-04-11,Specialty Foods - Other,74200.18
+5656,2023-09-24,Non Finished Goods,981.54
+5659,2025-08-24,Bakery,32964.57
+5659,2025-08-24,Non Finished Goods,407.81
+5661,2022-03-13,Bakery,39608.6
+5661,2022-03-13,Non Finished Goods,434.47
+5669,2022-03-27,Non Finished Goods,70.92
+5676,2023-04-09,Converter & Specialty Ind Film,6263.6
+5676,2023-04-09,Non Finished Goods,50.0
+5703,2022-09-18,Healthcare Films & Flex Pkg,117380.0
+5703,2022-09-18,Non Finished Goods,2509.22
+5707,2022-07-31,Sealant & Barrier -DO NOT USE,8769.96
+5713,2025-08-24,Specialty Foods - Other,84822.65
+5713,2025-08-24,Unknown,7474.5
+5716,2025-06-22,Converter & Specialty Ind Film,5937.57
+5716,2025-06-22,Unknown,297.39
+5725,2025-08-24,Healthcare Films & Flex Pkg,28854.91
+5725,2025-08-24,Personal Care,14505.75
+5725,2025-08-24,Unknown,2480.62
+5762,2025-08-24,Converter & Specialty Ind Film,13134.72
+5766,2018-09-02,Converter & Specialty Ind Film,5533.92
+5766,2018-09-02,Non Finished Goods,110.68
+5767,2023-12-17,Converter & Specialty Ind Film,9001.69
+5767,2023-12-17,Non Finished Goods,52.43
+5768,2023-02-05,Converter & Specialty Ind Film,7700.58
+5769,2025-08-24,Converter & Specialty Ind Film,45859.4
+5772,2025-08-17,Converter & Specialty Ind Film,16451.19
+5772,2025-08-17,Non Finished Goods,50.0
+5772,2025-08-17,Unknown,1010.58
+5776,2022-02-20,Converter & Specialty Ind Film,1675.7
+5776,2022-02-20,Non Finished Goods,14.56
+5778,2025-07-27,Converter & Specialty Ind Film,8896.8
+5778,2025-07-27,Non Finished Goods,106.53
+5779,2025-08-24,Converter & Specialty Ind Film,113507.49
+5779,2025-08-24,Unknown,339.81
+5782,2025-03-09,Converter & Specialty Ind Film,9557.64
+5783,2022-08-28,Converter & Specialty Ind Film,33632.25
+5783,2022-08-28,Unknown,1523.5
+5784,2025-07-27,Coated & Laminated -DO NOT USE,54669.85
+5784,2025-07-27,Converter & Specialty Ind Film,143817.11
+5788,2024-06-16,Converter & Specialty Ind Film,5661.32
+5789,2021-10-31,Non Finished Goods,32.58
+5790,2025-08-10,Converter & Specialty Ind Film,15058.49
+5790,2025-08-10,Non Finished Goods,264.06
+5791,2021-04-25,Converter & Specialty Ind Film,6151.08
+5794,2022-07-10,Non Finished Goods,1213.58
+5847,2021-05-16,Converter & Specialty Ind Film,2310.96
+5847,2021-05-16,Non Finished Goods,10.02
+5854,2023-12-10,Non Finished Goods,46.29
+5855,2021-04-18,Non Finished Goods,1500.0
+5855,2021-04-18,Ready-to-Eat,6734.16
+5881,2025-08-24,Healthcare Films & Flex Pkg,5827.76
+5881,2025-08-24,Non Finished Goods,1773.68
+5881,2025-08-24,Unknown,20237.21
+5888,2022-03-27,Bakery,8945.4
+5888,2022-03-27,Non Finished Goods,58.51
+5891,2025-08-10,Converters,6805.56
+5891,2025-08-10,Non Finished Goods,71.72
+5963,2025-08-24,Converters,47366.48
+6081,2024-02-25,Personal Care,32120.55
+6081,2024-02-25,Unknown,603.83
+6147,2021-10-31,Non Finished Goods,10.0
+6151,2025-06-01,Non Finished Goods,1641.76
+6151,2025-06-01,Unknown,7830.44
+6175,2018-10-28,Healthcare Films & Flex Pkg,10056.15
+6190,2025-08-10,Converter & Specialty Ind Film,7940.39
+6258,2018-03-18,Converter & Specialty Ind Film,9133.11
+6258,2018-03-18,Non Finished Goods,43.29
+6259,2022-05-01,Non Finished Goods,65.16
+6259,2022-05-01,Specialty Foods - Other,8659.92
+6267,2025-08-24,Distributor,7941.92
+6289,2025-08-10,Specialty Foods - Other,4980.0
+6305,2021-09-12,Non Finished Goods,165.68
+6311,2025-08-24,Converter & Specialty Ind Film,20197.5
+6311,2025-08-24,Non Finished Goods,119.11
+6311,2025-08-24,Unknown,1371.43
+6312,2021-06-27,Non Finished Goods,3851.93
+6312,2021-06-27,Specialty Foods - Other,32617.8
+6314,2025-05-25,Unknown,218.84
+6321,2025-08-17,Converter & Specialty Ind Film,62907.06
+6324,2025-07-13,Converter & Specialty Ind Film,18910.0
+6326,2023-09-10,Non Finished Goods,314.66
+6327,2018-07-15,Converter & Specialty Ind Film,21159.0
+6330,2022-03-27,Non Finished Goods,13.84
+6331,2021-05-16,Converter & Specialty Ind Film,4024.9
+6332,2025-05-18,Unknown,242.46
+6335,2025-07-27,Converter & Specialty Ind Film,34945.39
+6336,2022-06-05,Non Finished Goods,66.63
+6337,2022-07-31,Foil - non finished good,138286.21
+6341,2024-01-28,Converter & Specialty Ind Film,11113.8
+6400,2022-07-24,Personal Care,91030.17
+6400,2022-07-24,Unknown,2078.39
+6401,2025-06-15,Healthcare Films & Flex Pkg,90080.0
+6401,2025-06-15,Non Finished Goods,331.54
+6429,2022-03-20,Non Finished Goods,125.02
+6429,2022-03-20,Ready-to-Eat,10010.88
+6438,2025-08-17,Specialty Foods - Other,651.48
+6460,2024-12-15,Dairy,2827.8
+6460,2024-12-15,Unknown,278.3
+6462,2025-06-22,Ready-to-Eat,64161.56
+6462,2025-06-22,Specialty Foods - Other,66177.48
+6521,2020-08-09,Non Finished Goods,58.84
+6523,2022-08-14,Healthcare Films & Flex Pkg,21900.8
+6524,2025-08-24,Plate for Graphics - non FG,7554.0
+6526,2023-07-30,Non Finished Goods,1500.0
+6526,2023-07-30,Unknown,192.5
+6541,2025-08-10,Converter & Specialty Ind Film,70610.29
+6541,2025-08-10,Unknown,742.5
+6550,2025-08-24,Non Finished Goods,465.12
+6550,2025-08-24,Protein,59722.62
+6551,2024-03-24,Healthcare Films & Flex Pkg,74415.79
+6551,2024-03-24,Non Finished Goods,205.83
+6552,2025-08-24,Converter & Specialty Ind Film,152201.2
+6554,2025-08-24,Dairy,46792.32
+6567,2021-12-19,Bakery,100.66
+6567,2021-12-19,Non Finished Goods,1.36
+6587,2025-07-27,Healthcare Films & Flex Pkg,8471.13
+6587,2025-07-27,Non Finished Goods,7.52
+6608,2022-12-11,Bakery,157592.62
+6623,2022-07-24,Dairy,7329.48
+6623,2022-07-24,Non Finished Goods,82.16
+6664,2019-06-09,Specialty Foods - Other,4186.78
+6668,2021-11-28,Non Finished Goods,25.77
+6677,2021-08-15,Specialty Foods - Other,5814.72
+6682,2019-04-21,Converter & Specialty Ind Film,2423.62
+6682,2019-04-21,Non Finished Goods,97.06
+6735,2025-08-17,Bakery,19752.0
+6737,2025-07-06,Specialty Foods - Other,16851.55
+6753,2022-04-03,Unknown,279.35
+6754,2021-06-13,Personal Care,5353.13
+6772,2022-10-30,Personal Care,14803.419999999998
+6772,2022-10-30,Shrink Film,32264.92
+6773,2025-08-03,Personal Care,1499.61
+6775,2024-06-02,Specialty Foods - Other,18853.12
+6777,2022-03-27,Converter & Specialty Ind Film,3347.56
+6778,2020-08-30,Personal Care,375.0
+6779,2022-06-26,Non Finished Goods,13.72
+6779,2022-06-26,Specialty Foods - Other,18350.34
+6823,2024-03-03,Personal Care,945.67
+6824,2025-07-06,Non Finished Goods,319.66
+6825,2025-06-08,Unknown,20000.0
+6827,2025-02-16,Unknown,2033.06
+6844,2025-06-22,Bakery,14244.75
+6844,2025-06-22,Non Finished Goods,210.47
+6845,2022-05-22,Non Finished Goods,78.84
+6845,2022-05-22,Specialty Foods - Other,5683.06
+6916,2019-09-15,Specialty Foods - Other,22711.33
+6935,2025-06-15,Specialty Foods - Other,1284.0
+6941,2019-10-20,Personal Care,2405.0
+7000,2021-11-21,Converter & Specialty Ind Film,13376.18
+7006,2022-05-08,Non Finished Goods,224.64
+7006,2022-05-08,Specialty Foods - Other,20545.2
+7008,2022-05-01,Non Finished Goods,875.31
+7011,2022-07-10,Bakery,3222.9
+7011,2022-07-10,Non Finished Goods,57.08
+7013,2021-04-25,Non Finished Goods,365.88
+7015,2024-09-29,Non Finished Goods,117.81
+7015,2024-09-29,Specialty Foods - Other,17214.39
+7016,2020-10-04,Specialty Foods - Other,8122.9
+7017,2022-08-28,Non Finished Goods,325.19
+7024,2019-09-29,Healthcare Films & Flex Pkg,131017.81
+7025,2025-02-16,Personal Care,9729.18
+7052,2025-08-24,Converter & Specialty Ind Film,2485.2
+7052,2025-08-24,Unknown,263.49
+7111,2024-05-26,Plate for Graphics - non FG,879.16
+7296,2025-08-24,Bakery,352846.02
+7296,2025-08-24,Non Finished Goods,2750.13
+7296,2025-08-24,Plate for Graphics - non FG,1900.0
+7309,2025-08-24,Bakery,22305.87
+7440,2025-06-15,Dairy,10356.57
+7446,2020-02-02,Converter & Specialty Ind Film,18172.42
+7448,2022-04-24,Non Finished Goods,7.88
+7473,2022-07-10,Personal Care,43680.48
+7497,2025-08-03,Bakery,45623.28
+7497,2025-08-03,Non Finished Goods,324.13
+7499,2020-05-24,Bakery,7445.7
+7501,2025-07-20,Bakery,10534.4
+7502,2022-05-15,Bakery,13879.3
+7502,2022-05-15,Non Finished Goods,737.2
+7506,2024-03-31,Non Finished Goods,57.74
+7516,2021-04-18,Bakery,25723.55
+7521,2019-03-31,Personal Care,5324.22
+7523,2022-04-24,Bakery,12664.54
+7525,2021-03-28,Non Finished Goods,90.0
+7528,2024-11-17,Bakery,26227.17
+7528,2024-11-17,Non Finished Goods,123.51
+7535,2025-07-27,Non Finished Goods,236.43
+7535,2025-07-27,Specialty Foods - Other,25601.4
+7537,2022-05-22,Bakery,26866.56
+7538,2020-02-16,Bakery,14716.15
+7539,2025-03-23,Personal Care,7928.55
+7567,2025-08-24,Personal Care,51713.350000000006
+7567,2025-08-24,Unknown,1472.53
+7610,2025-08-24,Specialty Foods - Other,21290.58
+7618,2024-08-18,Non Finished Goods,152.27
+7651,2022-03-20,Bakery,10019.2
+7651,2022-03-20,Non Finished Goods,138.19
+7661,2021-07-18,Healthcare Films & Flex Pkg,85138.14
+7661,2021-07-18,Non Finished Goods,459.62
+7690,2025-08-24,Non Finished Goods,136.38
+7701,2020-10-25,Converter & Specialty Ind Film,4265.65
+7762,2023-12-10,Specialty Foods - Other,62066.75
+7839,2023-06-04,Converter & Specialty Ind Film,8056.7
+7840,2022-02-06,Converter & Specialty Ind Film,3011.43
+7840,2022-02-06,Non Finished Goods,18.45
+7842,2021-04-11,Converter & Specialty Ind Film,2520.57
+7861,2025-06-01,Unknown,3286.18
+7945,2024-06-16,Foil - non finished good,41468.0
+7957,2020-09-27,Converter & Specialty Ind Film,22590.84
+7959,2021-05-09,Non Finished Goods,121.71
+8016,2018-08-05,Specialty Foods - Other,5266.2
+8131,2025-03-02,Non Finished Goods,4000.0
+8140,2023-04-23,Converter & Specialty Ind Film,10766.0
+8141,2025-08-03,Converter & Specialty Ind Film,2751.0
+8142,2022-05-22,Non Finished Goods,136.26
+8147,2025-08-24,Non Finished Goods,50.98
+8148,2025-02-09,Converter & Specialty Ind Film,28040.55
+8148,2025-02-09,Unknown,770.0
+8150,2022-03-06,Converter & Specialty Ind Film,21158.8
+8156,2025-08-17,Converter & Specialty Ind Film,47028.67
+8161,2021-05-23,Non Finished Goods,642.4
+8162,2022-04-24,Non Finished Goods,147.41
+8164,2025-06-08,Converter & Specialty Ind Film,15477.5
+8169,2025-08-24,Converter & Specialty Ind Film,591.74
+8169,2025-08-24,Unknown,38.6
+8178,2022-04-24,Converter & Specialty Ind Film,7963.68
+8178,2022-04-24,Non Finished Goods,55.7
+8180,2025-07-20,Converter & Specialty Ind Film,1441.65
+8180,2025-07-20,Unknown,142.41
+8225,2025-08-10,Converter & Specialty Ind Film,5878.08
+8225,2025-08-10,Non Finished Goods,66.41
+8225,2025-08-10,Unknown,222.94
+8256,2025-08-24,Non Finished Goods,516.5
+8280,2023-01-01,Healthcare Films & Flex Pkg,44253.3
+8288,2025-07-27,Dairy,7224.96
+8288,2025-07-27,Unknown,666.39
+8374,2023-06-04,Bakery,49277.9
+8410,2022-05-01,Unknown,198.56
+8423,2025-01-26,Plate for Graphics - non FG,3671.48
+8429,2023-11-12,Non Finished Goods,52.03
+8429,2023-11-12,Specialty Foods - Other,3976.38
+8460,2023-12-17,Specialty Foods - Other,1000.02
+8486,2022-05-15,Converter & Specialty Ind Film,5178.98
+8486,2022-05-15,Non Finished Goods,59.02
+8492,2023-11-19,Specialty Foods - Other,25186.33
+8492,2023-11-19,Unknown,495.83
+8496,2025-08-03,Personal Care,3854.34
+8501,2025-07-13,Bakery,3900.01
+8501,2025-07-13,Unknown,367.38
+8507,2025-07-27,Non Finished Goods,75.42
+8507,2025-07-27,Ready-to-Eat,6637.68
+8510,2025-03-23,Specialty Foods - Other,5133.84
+8547,2018-09-16,Converter & Specialty Ind Film,7857.84
+8547,2018-09-16,Non Finished Goods,266.36
+8555,2025-03-16,Personal Care,55782.66
+8558,2024-08-04,Converter & Specialty Ind Film,420.0
+8558,2024-08-04,Personal Care,1366.25
+8559,2022-12-25,Non Finished Goods,98.56
+8579,2022-05-29,Dairy,21760.75
+8590,2025-08-24,Converter & Specialty Ind Film,123341.8
+8590,2025-08-24,Unknown,6820.0
+8594,2019-01-06,Specialty Foods - Other,4692.64
+8619,2025-04-20,Bakery,24289.87
+8620,2023-10-08,Non Finished Goods,96.25
+8622,2025-07-27,Converter & Specialty Ind Film,15803.52
+8623,2025-08-03,Non Finished Goods,203.78
+8624,2023-05-14,Converter & Specialty Ind Film,10178.62
+8625,2025-03-23,Healthcare Films & Flex Pkg,10332.26
+8625,2025-03-23,Unknown,175.18
+8626,2024-03-24,Non Finished Goods,485.54
+8627,2025-06-29,Personal Care,26578.38
+8628,2025-07-06,Bakery,47653.53
+8628,2025-07-06,Non Finished Goods,455.92
+8715,2020-05-24,Converter & Specialty Ind Film,1101.6
+8720,2022-01-16,Non Finished Goods,3800.0
+8720,2022-01-16,Specialty Foods - Other,30848.98
+8734,2022-08-14,Healthcare Films & Flex Pkg,8482.08
+8738,2022-03-27,Bakery,8985.82
+8738,2022-03-27,Non Finished Goods,126.64
+8740,2022-03-13,Converter & Specialty Ind Film,16479.87
+8740,2022-03-13,Unknown,520.77
+8741,2019-08-18,Bakery,906.83
+8741,2019-08-18,Non Finished Goods,192.61
+8742,2025-02-23,Converters,74533.46
+8742,2025-02-23,Non Finished Goods,887.69
+8747,2023-07-16,Non Finished Goods,37.81
+8750,2022-01-30,Specialty Foods - Other,2931.36
+8750,2022-01-30,Unknown,680.13
+8751,2021-11-21,Converter & Specialty Ind Film,20081.16
+8818,2025-02-16,Unknown,83.0
+8822,2025-04-20,Converter & Specialty Ind Film,5727.26
+8893,2023-10-15,Specialty Foods - Other,50494.4
+8939,2021-09-19,Converter & Specialty Ind Film,70511.85
+8945,2023-05-14,Non Finished Goods,350.0
+8945,2023-05-14,Specialty Foods - Other,2221.8
+8945,2023-05-14,Unknown,192.5
+9011,2018-09-23,Bakery,8026.4
+9116,2024-12-08,Bakery,18889.2
+9116,2024-12-08,Unknown,431.97
+9122,2025-08-24,Converter & Specialty Ind Film,91973.4
+9123,2025-08-24,Personal Care,339437.6
+9124,2025-08-17,Personal Care,37357.88
+9126,2025-06-08,Bakery,46162.55
+9127,2025-08-17,Converter & Specialty Ind Film,7047.58
+9128,2022-10-30,Non Finished Goods,121.57
+9128,2022-10-30,Personal Care,23069.79
+9129,2025-08-17,Healthcare Films & Flex Pkg,13478.63
+9130,2025-08-03,Healthcare Films & Flex Pkg,42380.1
+9131,2025-06-22,Converter & Specialty Ind Film,223823.6
+9131,2025-06-22,Unknown,6538.95
+9205,2025-08-03,Non Finished Goods,0.85
+9280,2024-01-28,Non Finished Goods,101.03
+9280,2024-01-28,Specialty Foods - Other,8420.0
+9330,2020-05-10,Non Finished Goods,101.78
+9354,2022-03-06,Converter & Specialty Ind Film,30197.8
+9354,2022-03-06,Non Finished Goods,442.89
+9355,2020-08-30,Non Finished Goods,1315.0
+9356,2021-12-19,Converter & Specialty Ind Film,8223.91
+9361,2022-06-26,Healthcare Films & Flex Pkg,29764.27
+9361,2022-06-26,Non Finished Goods,228.36
+9362,2025-08-17,Non Finished Goods,502.63
+9362,2025-08-17,Personal Care,60134.4
+9367,2020-02-16,Non Finished Goods,100.52
+9408,2025-08-17,Converter & Specialty Ind Film,7964.58
+9420,2024-09-22,Converter & Specialty Ind Film,3086.82
+9439,2023-04-23,Non Finished Goods,39.37
+9510,2024-12-01,Converter & Specialty Ind Film,7396.6
+9517,2025-08-17,Personal Care,1657.8
+9518,2021-05-02,Personal Care,60208.34
+9519,2021-05-02,Personal Care,8271.87
+9522,2025-02-23,Healthcare Films & Flex Pkg,140.0
+9522,2025-02-23,Personal Care,6671.57
+9522,2025-02-23,Unknown,66.79
+9526,2025-06-22,Personal Care,9026.95
+9528,2025-08-24,Personal Care,38469.84
+9530,2022-05-29,Personal Care,11848.68
+9534,2025-04-27,Converter & Specialty Ind Film,43496.2
+9561,2020-07-26,Bakery,8757.28
+9561,2020-07-26,Non Finished Goods,122.18
+9570,2025-08-24,Healthcare Films & Flex Pkg,67897.2
+9589,2024-01-28,Converter & Specialty Ind Film,50290.28
+9640,2021-01-10,Specialty Foods - Other,1306.32
+9666,2025-07-27,Ready-to-Eat,12101.97
+9666,2025-07-27,Unknown,294.75
+9786,2025-08-10,Coated & Laminated -DO NOT USE,8587.78
+9799,2025-08-24,Personal Care,105802.27
+9801,2025-08-24,Bakery,273482.49
+9833,2024-09-08,Non Finished Goods,6.99
+9833,2024-09-08,Ready-to-Eat,141.87
+9885,2025-08-03,Non Finished Goods,205.23
+9886,2025-08-24,Non Finished Goods,732.25
+9886,2025-08-24,Unknown,2240.54
+9954,2019-05-12,Non Finished Goods,1440.0
+9955,2020-07-12,Non Finished Goods,108.44
+9957,2022-03-06,Bakery,6498.34
+9966,2021-09-05,Healthcare Films & Flex Pkg,171349.65
+9975,2020-08-16,Non Finished Goods,151.23
+9976,2025-08-24,Bakery,21757.42
+9979,2025-08-24,Bakery,39662.23
+9982,2022-03-20,Bakery,3611.0
+9982,2022-03-20,Non Finished Goods,282.4
+9986,2025-08-24,Converter & Specialty Ind Film,58807.490000000005
+9986,2025-08-24,Non Finished Goods,126.09
+9986,2025-08-24,Unknown,2383.99
+9999,2022-12-04,Non Finished Goods,105.49
+9999,2022-12-04,Specialty Foods - Other,6670.4
+10014,2025-08-17,Bakery,15681.6
+10019,2025-05-11,Non Finished Goods,150.0
+10061,2025-08-24,Converter & Specialty Ind Film,46993.96
+10061,2025-08-24,Unknown,129.81
+10075,2020-02-02,Bakery,63.84
+10096,2021-01-24,Converter & Specialty Ind Film,1030.74
+10096,2021-01-24,Non Finished Goods,50.0
+10149,2022-07-03,Plate for Graphics - non FG,360.38
+10237,2023-06-04,Converter & Specialty Ind Film,3749.76
+10237,2023-06-04,Unknown,464.66
+10336,2022-03-27,Non Finished Goods,15.78
+10336,2022-03-27,Specialty Foods - Other,3256.88
+10343,2025-08-24,Converter & Specialty Ind Film,21879.39
+10350,2025-07-27,Converter & Specialty Ind Film,3364.2
+10350,2025-07-27,Unknown,208.69
+10352,2022-06-05,Converter & Specialty Ind Film,19773.62
+10400,2019-04-07,Converter & Specialty Ind Film,44676.82
+10400,2019-04-07,Non Finished Goods,109.97
+10402,2025-02-16,Converter & Specialty Ind Film,1749.6
+10406,2025-08-24,Converter & Specialty Ind Film,73140.93
+10408,2018-09-30,Converter & Specialty Ind Film,6770.48
+10410,2019-03-10,Non Finished Goods,799.26
+10411,2020-04-19,Converter & Specialty Ind Film,65619.7
+10412,2025-06-01,Non Finished Goods,1495.97
+10412,2025-06-01,Unknown,6563.28
+10424,2021-05-30,Converter & Specialty Ind Film,97383.3
+10425,2025-08-24,Healthcare Films & Flex Pkg,18851.27
+10427,2025-08-24,Converter & Specialty Ind Film,27258.68
+10430,2023-07-23,Converter & Specialty Ind Film,55326.24
+10430,2023-07-23,Non Finished Goods,655.26
+10435,2021-10-31,Non Finished Goods,88.0
+10437,2025-06-22,Converter & Specialty Ind Film,2952.48
+10438,2025-03-30,Converter & Specialty Ind Film,24503.01
+10442,2025-08-24,Converter & Specialty Ind Film,214827.44
+10447,2025-08-24,Unknown,13.92
+10450,2022-03-20,Non Finished Goods,7.97
+10467,2022-04-24,Specialty Foods - Other,797.6
+10467,2022-04-24,Unknown,119.92
+10468,2025-08-10,Healthcare Films & Flex Pkg,78608.7
+10477,2025-07-20,Converter & Specialty Ind Film,11196.32
+10477,2025-07-20,Unknown,223.18
+10518,2025-08-10,Bakery,17807.68
+10518,2025-08-10,Non Finished Goods,322.28
+10536,2024-03-24,Ready-to-Eat,14648.47
+10536,2024-03-24,Unknown,2396.04
+10555,2025-08-24,Healthcare Films & Flex Pkg,3493.25
+10555,2025-08-24,Personal Care,38511.62
+10560,2020-05-24,Converter & Specialty Ind Film,16083.9
+10565,2025-08-24,Condiments & Sauces,65892.0
+10590,2020-07-12,Non Finished Goods,224.62
+10620,2019-09-29,Specialty Foods - Other,15970.73
+10622,2025-02-16,Bakery,25455.34
+10622,2025-02-16,Non Finished Goods,303.3
+10631,2019-06-16,Converter & Specialty Ind Film,10351.77
+10631,2019-06-16,Non Finished Goods,124.82
+10635,2021-06-27,Specialty Foods - Other,3889.6
+10640,2022-11-27,Bakery,1272.5
+10640,2022-11-27,Non Finished Goods,20.4
+10653,2025-08-24,Healthcare Films & Flex Pkg,360.0
+10653,2025-08-24,Non Finished Goods,207.12
+10655,2023-10-08,Healthcare Films & Flex Pkg,181317.24
+10658,2022-05-22,Specialty Foods - Other,7690.68
+10689,2024-10-06,Converter & Specialty Ind Film,2233.0
+10691,2021-10-24,Specialty Foods - Other,2500.0
+10692,2021-04-11,Personal Care,17296.76
+10696,2023-03-05,Non Finished Goods,160.47
+10696,2023-03-05,Specialty Foods - Other,25178.9
+10704,2025-05-18,Unknown,3039.28
+10716,2025-06-08,Unknown,19283.59
+10736,2021-08-01,Converter & Specialty Ind Film,521.91
+10756,2022-05-01,Non Finished Goods,115.08
+10756,2022-05-01,Specialty Foods - Other,10165.88
+10769,2019-04-28,Specialty Foods - Other,7133.4
+10778,2021-05-30,Healthcare Films & Flex Pkg,1251.94
+10779,2025-04-27,Healthcare Films & Flex Pkg,700.0
+10779,2025-04-27,Personal Care,3160.8
+10783,2022-05-22,Bakery,10513.92
+10783,2022-05-22,Non Finished Goods,155.81
+10784,2023-02-12,Non Finished Goods,13.01
+10784,2023-02-12,Specialty Foods - Other,950.28
+10786,2020-02-16,Specialty Foods - Other,5133.28
+10787,2021-06-13,Non Finished Goods,21.14
+10788,2025-08-17,Bakery,21496.56
+10791,2019-12-29,Personal Care,1633.8
+10796,2023-01-22,Converter & Specialty Ind Film,25458.56
+10840,2025-08-10,Converter & Specialty Ind Film,9862.23
+10840,2025-08-10,Healthcare Films & Flex Pkg,140.0
+10932,2020-12-06,Personal Care,146.85
+10958,2023-11-26,Finished Goods,39265.65
+10958,2023-11-26,Unknown,754.05
+11143,2023-11-26,Finished Goods,157397.37
+11148,2020-03-15,Finished Goods,831.9
+11170,2020-12-06,Finished Goods,53827.2
+11182,2021-03-07,Unknown,1595.15
+11183,2023-11-26,Unknown,2880.6
+11187,2023-11-26,Finished Goods,48084.21
+11203,2022-03-13,Unknown,1441.76
+11204,2022-07-03,Finished Goods,5820.6
+11204,2022-07-03,Unknown,299.8
+11465,2025-08-24,Personal Care,70234.76
+11908,2025-08-03,Specialty Foods - Other,24995.7
+11910,2025-08-10,Healthcare Films & Flex Pkg,25885.0
+11925,2025-08-10,Protein,12094.38
+11940,2025-08-03,Specialty Foods - Other,24440.04
+11945,2025-07-06,Specialty Foods - Other,22154.04
+11953,2025-08-17,Specialty Foods - Other,13578.24
+11961,2025-08-24,Protein,5754.06
+11975,2025-03-23,Non Finished Goods,241.18
+11976,2025-07-20,Non Finished Goods,256.22
+11976,2025-07-20,Protein,3984.4
+11981,2025-07-27,Protein,23928.48
+11981,2025-07-27,Specialty Foods - Other,10575.9
+11984,2025-07-27,Dairy,22552.56
+11989,2025-08-24,Protein,128150.28
+12007,2024-06-16,Protein,70363.5
+12016,2025-04-27,Converters,109201.62
+12027,2025-08-24,Specialty Foods - Other,48156.24
+12031,2025-05-04,Film-non finished good,169.95
+12039,2025-07-27,Protein,10325.6
+12051,2025-07-13,Protein,5965.88
+12052,2025-08-24,Specialty Foods - Other,22885.72
+12058,2025-08-10,Protein,1903.65
+12067,2025-02-09,Specialty Foods - Other,15897.9
+12069,2025-07-13,Protein,52131.6
+12073,2025-02-16,Distributor,6197.36
+12073,2025-02-16,Non Finished Goods,72.06
+12077,2025-08-03,Specialty Foods - Other,82982.52
+12082,2025-07-27,Specialty Foods - Other,12811.68
+12082,2025-07-27,Unknown,136.26
+12101,2025-08-10,Converter & Specialty Ind Film,10190.62
+12119,2025-08-24,Non Finished Goods,99.82
+12119,2025-08-24,Specialty Foods - Other,4964.91
+12124,2025-08-24,Specialty Foods - Other,6340.68
+12125,2025-07-20,Protein,7376.4
+12125,2025-07-20,Specialty Foods - Other,6639.84
+12141,2025-07-20,Specialty Foods - Other,14225.76
+12142,2025-08-03,Specialty Foods - Other,12015.72
+12159,2025-08-24,Dairy,33203.2
+12160,2025-02-02,Protein,29451.96
+12162,2025-08-24,Specialty Foods - Other,18703.62
+12166,2025-08-24,Dairy,7311.84
+12168,2025-05-18,Specialty Foods - Other,3361.19
+12169,2025-02-16,Protein,3170.2
+12169,2025-02-16,Unknown,176.19
+12178,2025-08-24,Protein,7585.02
+12187,2025-08-10,Specialty Foods - Other,4173.12
+12187,2025-08-10,Unknown,114.68
+12191,2025-08-10,Bakery,26231.16
+12198,2025-03-02,Protein,6474.76
+12198,2025-03-02,Unknown,131.41
+12199,2025-08-03,Protein,1271.59
+12199,2025-08-03,Specialty Foods - Other,329.42
+12205,2025-08-10,Film-non finished good,1504.32
+12208,2025-08-10,Specialty Foods - Other,23937.12
+12213,2025-08-10,Specialty Foods - Other,427.26
+12227,2025-07-13,Protein,16725.96
+12229,2025-06-08,Specialty Foods - Other,26198.62
+12231,2025-08-24,Protein,98246.08
+12231,2025-08-24,Ready-to-Eat,256544.82
+12231,2025-08-24,Specialty Foods - Other,1560.43
+12243,2025-07-20,Protein,4747.2
+12243,2025-07-20,Unknown,203.89
+12248,2025-07-13,Specialty Foods - Other,5493.6
+12248,2025-07-13,Unknown,282.33
+12249,2024-09-22,Non Finished Goods,159.25
+12249,2024-09-22,Protein,2683.5
+12259,2024-07-28,Specialty Foods - Other,22017.6
+12260,2025-08-03,Protein,13319.28
+12262,2025-06-08,Specialty Foods - Other,3515.58
+12263,2025-08-10,Specialty Foods - Other,24342.8
+12267,2025-02-02,Dairy,11715.0
+12291,2025-07-06,Protein,9876.0
+12293,2025-08-10,Specialty Foods - Other,58192.8
+12304,2025-08-24,Specialty Foods - Other,10498.68
+12306,2025-08-03,Protein,15075.36
+12306,2025-08-03,Unknown,525.62
+12307,2025-08-03,Specialty Foods - Other,84265.2
+12312,2025-08-10,Specialty Foods - Other,19695.0
+12316,2024-02-25,Specialty Foods - Other,12746.34
+12318,2025-05-18,Protein,1917.36
+12318,2025-05-18,Specialty Foods - Other,8864.64
+12320,2025-06-15,Specialty Foods - Other,7335.3
+12320,2025-06-15,Unknown,698.94
+12322,2025-04-27,Dairy,2250.05
+12322,2025-04-27,Specialty Foods - Other,479.59
+12373,2025-08-24,Specialty Foods - Other,36432.0
+12519,2025-08-17,Specialty Foods - Other,19152.1
+12526,2024-04-14,Non Finished Goods,9.78
+12526,2024-04-14,Unknown,195.58
+12542,2025-06-08,Converter & Specialty Ind Film,12834.9
+12542,2025-06-08,Non Finished Goods,107.2
+12542,2025-06-08,Unknown,461.39
+12548,2025-05-11,Specialty Foods - Other,3361.14
+12583,2025-07-27,Coated & Laminated -DO NOT USE,2454.47
+12596,2025-03-30,Non Finished Goods,135.46
+12605,2025-06-08,Non Finished Goods,1263.54
+12605,2025-06-08,Unknown,3462.65
+12631,2025-07-20,Bakery,8818.48
+12631,2025-07-20,Non Finished Goods,106.21
+12733,2025-08-10,Condiments & Sauces,12528.34
+12733,2025-08-10,Non Finished Goods,197.58
+12733,2025-08-10,Specialty Foods - Other,5088.24
+12739,2025-04-06,Healthcare Films & Flex Pkg,10000.0
+12757,2025-08-24,Bakery,10286.47
+12778,2024-09-22,Converter & Specialty Ind Film,25043.29
+12778,2024-09-22,Non Finished Goods,376.69
+12788,2025-04-20,Non Finished Goods,208.93
+12797,2025-07-13,Bakery,16625.21
+12797,2025-07-13,Unknown,1099.16
+12802,2025-02-02,Bakery,15259.06
+12849,2025-07-27,Converter & Specialty Ind Film,38440.94
+12859,2024-12-08,Converter & Specialty Ind Film,160639.65
+12960,2025-08-17,Protein,22501.8
+13034,2025-08-24,Healthcare Films & Flex Pkg,3846.18
+13034,2025-08-24,Unknown,696.49
+13042,2025-08-24,Converter & Specialty Ind Film,47254.76
+13126,2025-08-24,Personal Care,13806.54
+13138,2025-08-10,Converter & Specialty Ind Film,48595.19
+13138,2025-08-10,Unknown,5820.62
+13208,2025-07-06,Non Finished Goods,76.35
+13208,2025-07-06,Specialty Foods - Other,4838.6
+13240,2025-08-24,Bakery,13507.2
+13240,2025-08-24,Non Finished Goods,207.42

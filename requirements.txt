@@ -1,0 +1,15 @@
+# Core Requirements - Minimum needed to run
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization Requirements - Recommended for full functionality
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Advanced Models - Optional for better performance
+xgboost>=1.5.0
+
+# Development Tools - Optional for testing
+pytest>=6.0.0
+jupyter>=1.0.0
