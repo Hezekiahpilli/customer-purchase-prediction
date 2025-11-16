@@ -121,10 +121,10 @@ class CustomerPurchasePredictor:
             self.all_data = pd.concat([self.train_df, self.test_df], ignore_index=True)
             self.all_data = self.all_data.sort_values(['Customer ID', 'Transaction Date'])
             
-            self.log(f"✓ Training data: {len(self.train_df)} transactions")
-            self.log(f"✓ Test data: {len(self.test_df)} transactions")
-            self.log(f"✓ Unique customers: {self.all_data['Customer ID'].nunique()}")
-            self.log(f"✓ Date range: {self.all_data['Transaction Date'].min()} to {self.all_data['Transaction Date'].max()}")
+            self.log(f"[OK] Training data: {len(self.train_df)} transactions")
+            self.log(f"[OK] Test data: {len(self.test_df)} transactions")
+            self.log(f"[OK] Unique customers: {self.all_data['Customer ID'].nunique()}")
+            self.log(f"[OK] Date range: {self.all_data['Transaction Date'].min()} to {self.all_data['Transaction Date'].max()}")
             
         except FileNotFoundError as e:
             print(f"Error: Data file not found - {e}")
@@ -188,9 +188,9 @@ class CustomerPurchasePredictor:
         self.patterns_df = pd.DataFrame(patterns)
         
         # Display statistics
-        self.log(f"✓ Analyzed {len(self.patterns_df)} customers")
-        self.log(f"✓ Average purchase interval: {self.patterns_df['Mean_Interval'].mean():.1f} days")
-        self.log(f"✓ Customer segments:")
+        self.log(f"[OK] Analyzed {len(self.patterns_df)} customers")
+        self.log(f"[OK] Average purchase interval: {self.patterns_df['Mean_Interval'].mean():.1f} days")
+        self.log(f"[OK] Customer segments:")
         for segment, count in self.patterns_df['Customer_Segment'].value_counts().items():
             self.log(f"  - {segment}: {count} customers")
         
@@ -290,8 +290,8 @@ class CustomerPurchasePredictor:
         self.feature_cols = [col for col in self.features_df.columns 
                            if col not in ['Customer ID', 'Transaction_Date', 'Target_Days']]
         
-        self.log(f"✓ Created {len(self.features_df)} training samples")
-        self.log(f"✓ Number of features: {len(self.feature_cols)}")
+        self.log(f"[OK] Created {len(self.features_df)} training samples")
+        self.log(f"[OK] Number of features: {len(self.feature_cols)}")
         
         return self
     
@@ -311,8 +311,8 @@ class CustomerPurchasePredictor:
             X, y, test_size=0.2, random_state=42
         )
         
-        self.log(f"✓ Training samples: {len(X_train)}")
-        self.log(f"✓ Validation samples: {len(X_val)}")
+        self.log(f"[OK] Training samples: {len(X_train)}")
+        self.log(f"[OK] Validation samples: {len(X_val)}")
         
         # Define models
         models = {
@@ -358,7 +358,7 @@ class CustomerPurchasePredictor:
         self.model = self.model_results[self.best_model_name]['model']
         
         self.log("-" * 40)
-        self.log(f"✓ Best model: {self.best_model_name}")
+        self.log(f"[OK] Best model: {self.best_model_name}")
         
         return self
     
@@ -409,9 +409,9 @@ class CustomerPurchasePredictor:
         self.predictions_df = pd.DataFrame(predictions)
         self.predictions_df = self.predictions_df.sort_values('Customer ID')
         
-        self.log(f"✓ Generated predictions for {len(self.predictions_df)} customers")
-        self.log(f"✓ Average prediction: {self.predictions_df['Predicted Days Until Next Purchase'].mean():.1f} days")
-        self.log(f"✓ Median prediction: {self.predictions_df['Predicted Days Until Next Purchase'].median():.0f} days")
+        self.log(f"[OK] Generated predictions for {len(self.predictions_df)} customers")
+        self.log(f"[OK] Average prediction: {self.predictions_df['Predicted Days Until Next Purchase'].mean():.1f} days")
+        self.log(f"[OK] Median prediction: {self.predictions_df['Predicted Days Until Next Purchase'].median():.0f} days")
         
         return self
     
@@ -424,13 +424,13 @@ class CustomerPurchasePredictor:
         # Save predictions
         predictions_file = os.path.join(output_dir, 'customer_predictions.csv')
         self.predictions_df.to_csv(predictions_file, index=False)
-        self.log(f"✓ Predictions saved to: {predictions_file}")
+        self.log(f"[OK] Predictions saved to: {predictions_file}")
         
         # Generate and save report
         report_file = os.path.join(output_dir, 'analysis_report.txt')
         with open(report_file, 'w', encoding='utf-8') as f:
             f.write(self._generate_report())
-        self.log(f"✓ Report saved to: {report_file}")
+        self.log(f"[OK] Report saved to: {report_file}")
         
         # Create visualizations if possible
         if PLOTTING_ENABLED:
@@ -535,7 +535,7 @@ class CustomerPurchasePredictor:
             plt.savefig(plot_file, dpi=100, bbox_inches='tight')
             plt.close()
             
-            self.log(f"✓ Plots saved to: {plot_file}")
+            self.log(f"[OK] Plots saved to: {plot_file}")
         except Exception as e:
             self.log(f"Warning: Could not create plots: {e}")
 
@@ -589,7 +589,7 @@ def create_sample_data():
     pd.DataFrame(train_data).to_csv('sample_train.csv', index=False)
     pd.DataFrame(test_data).to_csv('sample_test.csv', index=False)
     
-    print("✓ Sample data created: sample_train.csv and sample_test.csv")
+    print("[OK] Sample data created: sample_train.csv and sample_test.csv")
 
 
 def main():
@@ -602,9 +602,9 @@ def main():
     
     args = parser.parse_args()
     
-    print("\n" + "🚀"*30)
+    print("\n" + "="*60)
     print("CUSTOMER PURCHASE PREDICTION SYSTEM")
-    print("🚀"*30)
+    print("="*60)
     
     # Use sample data in test mode
     if args.test_mode:
@@ -636,9 +636,9 @@ def main():
             .make_predictions() \
             .save_results(args.output)
     
-    print("\n" + "✅"*30)
+    print("\n" + "="*60)
     print("ANALYSIS COMPLETE!")
-    print("✅"*30)
+    print("="*60)
     
     print("\nOutput files created:")
     print(f"1. customer_predictions.csv - Predictions for all customers")
